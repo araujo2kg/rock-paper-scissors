@@ -1,2 +1,3 @@
 # rock-paper-scissors
-rock paper scissors exercise from the odin project
+
+rock paper scissors exercise from [The Odin Project](https://www.theodinproject.com/).
